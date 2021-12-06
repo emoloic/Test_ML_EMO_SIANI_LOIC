@@ -3,7 +3,6 @@
 # Importation des libraries et fonctions nécessaires
 import os
 import sys
-from time import sleep
 from fonctionsTri import *
 from threading import Thread
 
